@@ -1,1 +1,1 @@
-# my-art-gallery
+# design studio
